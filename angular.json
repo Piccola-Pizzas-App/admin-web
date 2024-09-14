@@ -25,7 +25,6 @@
           "options": {
             "outputPath": "docs",
             "index": "src/index.html",
-            "browser": "src/main.ts",
             "polyfills": [
               "@angular/localize/init",
               "zone.js"
@@ -41,7 +40,8 @@
               "src/scss/styles.scss"
             ],
             "scripts": [],
-            "allowedCommonJsDependencies": []
+            "allowedCommonJsDependencies": [],
+            "baseHref": "/admin-web/"
           },
           "configurations": {
             "production": {
