@@ -1,0 +1,1 @@
+import"./chunk-RGL3W33T.js";var t=[{path:"",loadComponent:()=>import("./chunk-HDTBSPY7.js").then(o=>o.ProductsComponent)},{path:"new",loadComponent:()=>import("./chunk-GPX6AAPD.js").then(o=>o.ProductFormComponent)},{path:"edit/:id",loadComponent:()=>import("./chunk-GPX6AAPD.js").then(o=>o.ProductFormComponent)}];export{t as routes};
