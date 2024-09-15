@@ -1,0 +1,1 @@
+import"./chunk-RGL3W33T.js";var t=[{path:"today",loadComponent:()=>import("./chunk-PLFYVK66.js").then(o=>o.TodayOrdersComponents)},{path:"all",loadComponent:()=>import("./chunk-6NPUDLWX.js").then(o=>o.AllOrdersComponents)},{path:"locals",loadComponent:()=>import("./chunk-ZYNG4LZU.js").then(o=>o.LocalsOrdersComponents)}];export{t as routes};
